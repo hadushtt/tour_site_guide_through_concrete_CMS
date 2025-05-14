@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\downloadstatistics][1]/ */
 /* Type: array */
-/* Expiration: 2025-05-18T17:37:35+03:00 */
+/* Expiration: 2025-05-19T07:11:46+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1747579055;
+$expiration = 1747627906;
 
 $data = array();
 
@@ -90,4 +90,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1747210526;
+$data['createdOn'] = 1747231372;
