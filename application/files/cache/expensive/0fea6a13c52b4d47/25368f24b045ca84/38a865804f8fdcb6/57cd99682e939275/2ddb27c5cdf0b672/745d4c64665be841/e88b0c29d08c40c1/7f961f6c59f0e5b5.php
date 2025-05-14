@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\attribute\key\key$akisinternal][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T04:20:56+02:00 */
+/* Expiration: 2025-05-18T17:11:06+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745029256;
+$expiration = 1747577466;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653517;
+$data['createdOn'] = 1747210180;

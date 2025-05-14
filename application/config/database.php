@@ -6,7 +6,7 @@ return [
         'concrete' => [
             'driver' => 'concrete_pdo_mysql',
             'server' => 'localhost',
-            'database' => 'tourGuide',
+            'database' => 'tigray_tour_guide',
             'username' => 'root',
             'password' => '',
             'character_set' => 'utf8mb4',

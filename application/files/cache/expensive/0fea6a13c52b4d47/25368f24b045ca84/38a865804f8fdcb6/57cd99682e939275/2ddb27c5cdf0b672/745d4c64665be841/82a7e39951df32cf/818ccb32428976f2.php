@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\validation\bannedword][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T03:33:45+02:00 */
+/* Expiration: 2025-05-19T06:21:28+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745026425;
+$expiration = 1747624888;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653707;
+$data['createdOn'] = 1747210526;

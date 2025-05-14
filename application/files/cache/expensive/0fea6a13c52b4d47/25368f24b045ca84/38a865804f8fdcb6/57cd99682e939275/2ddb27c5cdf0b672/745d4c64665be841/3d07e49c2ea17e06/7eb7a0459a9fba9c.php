@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\user$ulastonline][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T18:02:37+02:00 */
+/* Expiration: 2025-05-19T05:15:07+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745078557;
+$expiration = 1747620907;
 
 $data = array();
 
@@ -35,4 +35,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653534;
+$data['createdOn'] = 1747210181;

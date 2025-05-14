@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\groupsignuprequestaccept][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T04:08:38+02:00 */
+/* Expiration: 2025-05-19T05:49:03+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745028518;
+$expiration = 1747622943;
 
 $data = array();
 
@@ -30,4 +30,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653707;
+$data['createdOn'] = 1747210526;

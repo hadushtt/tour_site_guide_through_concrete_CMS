@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\user$uispasswordreset][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T14:54:46+02:00 */
+/* Expiration: 2025-05-18T19:15:51+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745067286;
+$expiration = 1747584951;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653534;
+$data['createdOn'] = 1747210181;

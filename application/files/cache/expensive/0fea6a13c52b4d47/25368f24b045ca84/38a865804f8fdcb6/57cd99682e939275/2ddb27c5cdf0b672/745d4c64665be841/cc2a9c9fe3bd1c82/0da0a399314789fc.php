@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\attribute\key\userkey$uakprofileedit][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T02:05:32+02:00 */
+/* Expiration: 2025-05-19T00:10:07+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745021132;
+$expiration = 1747602607;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653710;
+$data['createdOn'] = 1747210192;

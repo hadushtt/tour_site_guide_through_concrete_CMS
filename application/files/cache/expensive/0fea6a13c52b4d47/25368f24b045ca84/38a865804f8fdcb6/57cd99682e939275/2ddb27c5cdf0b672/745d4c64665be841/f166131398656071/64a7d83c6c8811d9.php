@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\user\user$unumlogins][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T07:54:38+02:00 */
+/* Expiration: 2025-05-19T00:25:31+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745042078;
+$expiration = 1747603531;
 
 $data = array();
 
@@ -35,4 +35,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653534;
+$data['createdOn'] = 1747210181;

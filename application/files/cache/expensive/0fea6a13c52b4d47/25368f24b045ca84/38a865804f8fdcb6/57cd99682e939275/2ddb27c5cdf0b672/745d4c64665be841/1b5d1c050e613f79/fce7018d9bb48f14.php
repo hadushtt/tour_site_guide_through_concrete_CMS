@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\file\image\thumbnail\type\type$fttypeisrequired][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T14:22:12+02:00 */
+/* Expiration: 2025-05-18T23:19:50+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745065332;
+$expiration = 1747599590;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653534;
+$data['createdOn'] = 1747210185;

@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\express\association$inversed_by_property_name][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T10:57:10+02:00 */
+/* Expiration: 2025-05-19T01:56:05+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745053030;
+$expiration = 1747608965;
 
 $data = array();
 
@@ -33,4 +33,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744653706;
+$data['createdOn'] = 1747210190;

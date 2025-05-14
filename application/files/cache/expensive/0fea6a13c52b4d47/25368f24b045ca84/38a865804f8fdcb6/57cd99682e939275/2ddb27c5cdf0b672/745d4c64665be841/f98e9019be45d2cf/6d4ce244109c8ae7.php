@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\core\entity\statistics\usagetracker\stackusagerecord$stack_id][1]/ */
 /* Type: array */
-/* Expiration: 2025-04-19T13:36:56+02:00 */
+/* Expiration: 2025-05-18T21:57:42+03:00 */
 
 
 
 $loaded = true;
-$expiration = 1745062616;
+$expiration = 1747594662;
 
 $data = array();
 
@@ -36,4 +36,4 @@ $data['return'] = array (
 );
 
 /* Child Type: integer */
-$data['createdOn'] = 1744654308;
+$data['createdOn'] = 1747210522;
